@@ -178,4 +178,4 @@ This case study was completed as the capstone project for the **Google Data Anal
 
 ---
 
-*Project completed: December 2024*
+*Project completed: December 2025*
