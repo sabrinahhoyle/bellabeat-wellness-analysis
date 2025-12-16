@@ -202,7 +202,6 @@ I'm actively seeking opportunities in data analytics, business intelligence, or 
 ## 📝 Project Details
 
 **Project Type:** Capstone Project, Google Data Analytics Professional Certificate  
-**Completion Date:** December 2024  
 **Skills Demonstrated:** R programming, statistical analysis, data visualization, business strategy, stakeholder communication
 
 ---
